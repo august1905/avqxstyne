@@ -1,6 +1,6 @@
 - 👋 Hi, I’m August
 - 👀 I’m interested in learning about all things web development
-- 🌱 I’m currently building a solid understanding of JavaScript and Git
+- 🌱 I’m currently learning React, Express, and Node.
 - 💞️ I’m not looking to collaborate on anything right now
 - 📫 How to reach me: augustarashi@gmail.com
 
