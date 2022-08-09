@@ -1,8 +1,8 @@
-- 👋 Hi, I’m August
-- 👀 I’m interested in learning about all things web development
-- 🌱 I’m currently learning React, Express, and Node.
-- 💞️ I’m not looking to collaborate on anything right now
-- 📫 How to reach me: augustarashi@gmail.com
+- 👋 Hi, my name is August!
+- 👀 I’m interested in learning aall things web-related.
+- 🌱 I’m currently learning React hooks, react native, git, and how to use github.
+- 💞️ I'd love to collaborate on some projects that will be a good learning experience for me.
+- 📫 How to reach me: augustwiesner@gmail.com
 
 <!---
 avqxstyne/avqxstyne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
