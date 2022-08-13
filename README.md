@@ -1,5 +1,5 @@
 - 👋 Hi, my name is August!
 - 👀 I’m interested in learning all things web-related.
-- 🌱 I’m currently learning React hooks, react native, git, and how to use github.
+- 🌱 I’m currently learning React hooks, git, and how to use github, and working on a project for cs50.
 - 💞️ I'd love to collaborate on some projects that will be a good learning experience for me!
 - 📫 How to reach me: augustwiesner@gmail.com.
