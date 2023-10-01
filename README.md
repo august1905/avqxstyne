@@ -1,5 +1,5 @@
 - 👋 Hi, my name is August!
-- 👀 I’m interested in learning all things web-related.
-- 🌱 I’m currently studying for a Bachelor's in Software Engineering while continuing learning to program.
-- 💞️ I'd love to collaborate on some projects that will be a good learning experience for me!
+- 👀 I’m interested in web/mobile/software development.
+- 🌱 Student of Western Governors University; Bachelor's in Software Engineering (60% completed).
+- 💞️ I'd always love to collaborate on some projects.
 - 📫 How to reach me: augustwiesner16@gmail.com
