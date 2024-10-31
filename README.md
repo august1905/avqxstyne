@@ -1,4 +1,4 @@
-Grayson Wiesner. 19
+Grayson Wiesner. 19y/o
 
 Western Governors University Class of 2024
 Bachelor's in Software Engineering, with a focus on Java and Javascript.
